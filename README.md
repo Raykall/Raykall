@@ -13,7 +13,11 @@
 🌱 Estudando, apredendo e desenvolvendo expertise com foco em Front-End.
 </br></br>
 
-![Raykall GitHub stats](https://github-readme-stats.vercel.app/api?username=raykall&show_icons=true&theme=highcontrast)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raykall&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raykall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 ## Tecnologias que utilizo no meu dia-a-dia
 
