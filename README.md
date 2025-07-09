@@ -3,7 +3,7 @@
 <a href="#"><h1> Olá, Tudo bem?! Sou eu mesmo, Rayandro Kelvin. 🖐️</h1></a>
 
 <div style="display: inline-block"> 
-<a href="https://www.linkedin.com/in/rayandro-kelvin-almeida-de-alcântara-b7b94427b/">  
+<a href="https://www.linkedin.com/in/rayandro-kelvin/">  
 <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://cursos.alura.com.br/vitrinedev/rayandro"><img style="width: 120px" align="center" alt="vitrine-dev" src="https://i.imgur.com/2oOZqGZ.png"></a>
